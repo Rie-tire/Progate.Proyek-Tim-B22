@@ -29,6 +29,10 @@
     }
     
     .pick {
-        width : 30%
+        width : 50%;
+    }
+    
+    .pick-icon {
+        display: inline-block;
     }
 }
