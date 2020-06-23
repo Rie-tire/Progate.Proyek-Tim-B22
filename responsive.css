@@ -2,8 +2,9 @@
     .top-wrapper h1 {
         font-size: 32px;
         }
-    .lesson {
+    .pick {
         width: 50%;
+        margin-bottom: 50px; 
         }
 }
     
