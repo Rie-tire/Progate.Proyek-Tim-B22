@@ -18,6 +18,9 @@
         text-align: left;
         line-height: 36px;
     }
+    
+    .container {
+        width: 100%;
 
     .top-wrapper p {
         font-size: 14px;
