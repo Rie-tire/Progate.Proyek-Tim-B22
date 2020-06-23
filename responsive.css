@@ -33,6 +33,6 @@
     }
     
     .pick-icon {
-        display: block;
+        display: inline-block;
     }
 }
