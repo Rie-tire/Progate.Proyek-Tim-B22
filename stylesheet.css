@@ -116,3 +116,23 @@ a {
     display: none;
 
 }
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading h1 {
+  font-weight: normal;
+}
+
+.pick {
+  float: left;
+  width: 25%;
+}
+
+.pick-icon {
+  position: relative;
+}
+
