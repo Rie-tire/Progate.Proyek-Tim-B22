@@ -148,4 +148,6 @@ a {
   width: 25%;
 }
 
-
+.content-wrapper img {
+    width: 125px;
+}
