@@ -148,5 +148,6 @@ a {
 .picks img {
     width: 50%;
     position: relative;
+    text-align: center;
    
 }
