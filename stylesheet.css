@@ -143,9 +143,9 @@ a {
   
 }
 
-
-
-
+.pick img {
+    width: 25%;
+}
 
 .pick {
     float: left;
