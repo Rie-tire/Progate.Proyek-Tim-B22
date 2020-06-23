@@ -1,0 +1,104 @@
+.title {
+    color: #02ccba;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+
+}
+
+.top-wrapper {
+    background-image: url(https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/59238_435149227021_8374072_n.jpg?_nc_cat=108&_nc_sid=7aed08&_nc_ohc=c4TgcvCDpukAX_L6lHj&_nc_ht=scontent-sin6-2.xx&oh=c1a548c41bf6894e8492dc0e12d3cc08&oe=5F16AE3A); 
+    padding-top: 180px;
+    padding-bottom: 100px;
+    background-size: cover;
+    background-image: rgba (0.5);
+    text-align: center;
+    
+    
+}
+
+.top-wrapper h1 {
+    font-size: 30px;
+    letter-spacing: 5px;
+    line-height: 10px;
+    margin-bottom: 40px;
+    opacity: 1;
+    color: white;
+}
+
+.top-wrapper p {
+    opacity: 1;
+   line-height: 0;
+   padding-bottom: 3px;
+   color: white;
+   font-size: 20px;
+   
+}
+
+.header-right {
+    float: right;
+}
+
+.header-right a {
+    padding: 0 25px;
+    color: white;
+    display: inline-block;
+    line-height: 65px;
+    transition: all 0.5s;
+    
+}
+
+.header-right a:hover {
+    background-color: rgba(255,255,255,0.3);
+}
+
+.header-left {
+    float: left;
+}
+
+header {
+    height: 65px;
+    background-color: #0a3d62;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 200px;
+    margin: 10px;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.shop {
+    padding: 15px 40px;
+    background-color: #e84118;
+    cursor: pointer;
+    box-shadow: 0 7px  #c23616;
+    margin-top: 30px;
+    }
+
+.shop:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
