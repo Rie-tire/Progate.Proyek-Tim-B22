@@ -1,7 +1,11 @@
 @media all and (max-width: 1000px) {
     .top-wrapper h1 {
         font-size: 32px;
-    }
+        }
+    .lesson {
+        width: 50%;
+        }
+}
     
     
 
@@ -22,6 +26,7 @@
     
     .container {
         width: 100%;
+    }
         
     .top-wrapper p {
         font-size: 14px;
