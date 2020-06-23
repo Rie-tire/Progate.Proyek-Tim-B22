@@ -1,3 +1,14 @@
+*{
+    box-sizing: border-box
+}
+
+html, body, 
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+    margin: 0;
+    padding: 0;
+}
+
 .title {
     color: #02ccba;
 }
@@ -5,7 +16,6 @@
 .container {
     width: 1170px;
     margin: 0 auto;
-
 }
 
 .top-wrapper {
@@ -15,26 +25,22 @@
     background-size: cover;
     background-image: rgba (0.5);
     text-align: center;
-    
-    
 }
 
 .top-wrapper h1 {
-    font-size: 30px;
+    font-size: 45px;
     letter-spacing: 5px;
-    line-height: 10px;
-    margin-bottom: 40px;
+    
+    margin-bottom: 10px;
     opacity: 1;
     color: white;
 }
 
 .top-wrapper p {
     opacity: 1;
-   line-height: 0;
-   padding-bottom: 3px;
-   color: white;
-   font-size: 20px;
    
+   margin-bottom: 3px;
+   color: white;
 }
 
 .header-right {
@@ -47,7 +53,6 @@
     display: inline-block;
     line-height: 65px;
     transition: all 0.5s;
-    
 }
 
 .header-right a:hover {
@@ -95,10 +100,19 @@ a {
     cursor: pointer;
     box-shadow: 0 7px  #c23616;
     margin-top: 30px;
-    }
+}
 
 .shop:active {
     position: relative;
     top: 7px;
     box-shadow: none;
+}
+
+.menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none;
+
 }
