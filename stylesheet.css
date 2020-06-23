@@ -146,8 +146,17 @@ a {
 
 
 .picks img {
-    width: 30px;
+    width: 50%;
    
+}
+
+.pick {
+    float: left;
+    width: 25%;
+}
+
+.pick-icon {
+    position: relative;
 }
 
 
