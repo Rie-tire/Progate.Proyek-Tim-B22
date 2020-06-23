@@ -3,10 +3,7 @@
         font-size: 32px;
     }
     
-    .pick-icon {
-        display: inline-block;
-    }
-}
+    
 
 @media all and (max-width: 670px) {
     .header-right {
@@ -35,6 +32,9 @@
     .pick {
         width : 100%;
     }
+    
+    .pick-icon {
+     display: block;
     
     
 }
