@@ -27,4 +27,8 @@
         text-align: left;
         line-height: 20px;
     }
+    
+    .pick {
+        width : 100%
+    }
 }
