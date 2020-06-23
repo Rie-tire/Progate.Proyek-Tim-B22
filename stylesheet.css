@@ -124,6 +124,11 @@ a {
 }
 
 .heading h1 {
+  font-weight: bold;
+  text-align: center
+}
+
+.heading p {
   font-weight: normal;
   text-align: center
 }
