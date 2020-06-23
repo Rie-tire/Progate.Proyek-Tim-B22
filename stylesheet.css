@@ -145,8 +145,8 @@ a {
 
 
 
-.picks:hover img {
-    width: 50%;
+.picks img {
+    width: 25%;
     position: relative;
     text-align: center;
 }
