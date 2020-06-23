@@ -149,5 +149,9 @@ a {
     width: 50%;
     position: relative;
     text-align: center;
-   
 }
+
+.picks:hover img {
+    width: 50%;
+    position: relative;
+    
